@@ -44,3 +44,9 @@ Created KPIs:
  -->The power of KPI-driven reporting.
  -->Structuring charts for executive decision-making.
  -->Visualizing large datasets with clarity and impact.
+
+ # OUTPUT:
+
+ ![Image](https://github.com/user-attachments/assets/3b23044a-41f3-45d6-ac40-c649e31ed24d)
+
+"C:\Users\Vennavalli\Videos\Screen Recordings\Screen Recording 2025-04-30 223330.mp4"
